@@ -1,0 +1,11 @@
+/Users/leo/Documents/Programmieren/PROO/CS/04_Banking/Banking.Logic/bin/Debug/net7.0/Banking.Logic.deps.json
+/Users/leo/Documents/Programmieren/PROO/CS/04_Banking/Banking.Logic/bin/Debug/net7.0/Banking.Logic.dll
+/Users/leo/Documents/Programmieren/PROO/CS/04_Banking/Banking.Logic/bin/Debug/net7.0/Banking.Logic.pdb
+/Users/leo/Documents/Programmieren/PROO/CS/04_Banking/Banking.Logic/obj/Debug/net7.0/Banking.Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leo/Documents/Programmieren/PROO/CS/04_Banking/Banking.Logic/obj/Debug/net7.0/Banking.Logic.AssemblyInfoInputs.cache
+/Users/leo/Documents/Programmieren/PROO/CS/04_Banking/Banking.Logic/obj/Debug/net7.0/Banking.Logic.AssemblyInfo.cs
+/Users/leo/Documents/Programmieren/PROO/CS/04_Banking/Banking.Logic/obj/Debug/net7.0/Banking.Logic.csproj.CoreCompileInputs.cache
+/Users/leo/Documents/Programmieren/PROO/CS/04_Banking/Banking.Logic/obj/Debug/net7.0/Banking.Logic.dll
+/Users/leo/Documents/Programmieren/PROO/CS/04_Banking/Banking.Logic/obj/Debug/net7.0/refint/Banking.Logic.dll
+/Users/leo/Documents/Programmieren/PROO/CS/04_Banking/Banking.Logic/obj/Debug/net7.0/Banking.Logic.pdb
+/Users/leo/Documents/Programmieren/PROO/CS/04_Banking/Banking.Logic/obj/Debug/net7.0/ref/Banking.Logic.dll
